@@ -45,3 +45,20 @@ Dùng cùng dữ liệu, model và câu hỏi cho cả ba cấu hình. Tách **1
 | Cách nộp bài | [SUBMISSION.md](SUBMISSION.md) |
 
 [data/format-example.json](data/format-example.json) chỉ minh họa định dạng, không phải corpus đủ điều kiện. Phần xử lý và benchmark do bạn tự hiện thực; không bắt buộc xây chatbot.
+
+## Môi trường
+
+- Python: Python 3.12.10
+- OS: Windows-10-10.0.19045-SP0
+- chromadb 1.5.9, sentence-transformers 6.3.0, torch 2.15.0, pymupdf 2.1
+- Embedding: BAAI/bge-small-en-v1.5 (local, 384 chiều), query có prefix, document không prefix
+- Vector store: Chroma PersistentClient (vectorstore/chroma), cosine, HNSW approximate
+- Chi phí API: 0 USD
+- Ngày chạy: 2026-11-14
+
+## Dữ liệu
+
+- Corpus: *Introduction to Business* (OpenStax, CC BY 4.0), chương 6, 7, 8, tổng 93 trang nội dung
+- Tải tại: https://openstax.org/details/books/Introduction-Business, lưu thành `data/raw/doc01.pdf`
+- Quy ước trang: **trang PDF vật lý, đếm từ 1** (lệch so với số trang in)
+- Metadata: `document_id`, `source`, `page`, `section` (`ch06`, `ch07`, `ch08`)

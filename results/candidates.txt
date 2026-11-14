@@ -1,0 +1,123 @@
+223|ch06|D|Management is the process of guiding the development, maintenance, and allocation of resources to attain organizational goals.
+223|ch06|D|Managers are the people in the organization responsible for developing and carrying out this management process.
+223|ch06|C|Although these activities are discussed separately in the chapter, they actually form a tightly integrated cycle of thoughts and actions.
+224|ch06|D|Efficiency is using the least possible amount of resources to get work done, whereas effectiveness is the ability to produce a desired result.
+224|ch06|D|For example in 2016, Delta, one of the most efficient network U.S. airlines, operated at revenue of 12.15 cents per seat-mile, which is the revenue the company makes on one seat (occupied or not) the distance of one mile.
+224|ch06|C|No other airline came close to operating this efficiently except Southwest, which flew seats that produced 12.51 cents a mile, the best performance of all U.S. airlines.1 There are many ways that airlines can manage to produce higher revenue per seat-mile.
+227|ch06|C|The high-tech press did more for the company than simply reduce costs, however.
+227|ch06|D|The machine excels at short runs, which means that small batches of an item can be printed at a much lower cost than on a traditional press.
+229|ch06|C|The shift to limited editions and tighter inventory controls has not reduced the amount of new merchandise, however.
+230|ch06|D|Even though the 787 has less than half the seating of the Airbus A380, Boeing’s Dreamliner is a hit in the market.
+230|ch06|C|If successful, Boeing will regain market share lost to the Airbus A321.
+230|ch06|D|What is the purpose of planning, and what is needed to do it effectively? 2.
+231|ch06|D|A second key function of managers is organizing, which is the process of coordinating and allocating a firm’s resources in order to carry out its plans.
+231|ch06|C|In this chapter, however, you should understand the three levels of a managerial hierarchy.
+231|ch06|D|Called top management, they are the small group of people at the head of the organization (such as the CEO, president, and vice president).
+232|ch06|D|Exhibit 6.3 The Managerial Pyramid (Attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license.) The second and third tiers of the hierarchy are called middle management and supervisory (first-line) management, respectively.
+232|ch06|D|Leadership, the third key management function, is the process of guiding and motivating others toward the achievement of organizational goals.
+233|ch06|C|Organizations, however, need strong effective leadership at all levels in order to meet goals and remain competitive.
+233|ch06|D|This ability to influence others to behave in a particular way is called power.
+233|ch06|D|Ann Gillin Lefever, a managing director at Lehman Brothers, said, “Lafley is a leader who is liked.
+236|ch06|C|Although one might at first assume that subordinates would prefer the free-rein style, this approach can have workers to meet new account quotas.
+237|ch06|C|If free-rein leadership is accompanied by unclear expectations and lack of feedback from the manager, the experience can be frustrating for an employee.
+237|ch06|D|Empowerment means giving employees increased autonomy and discretion to make their own decisions, as well as control over the resources needed to implement those decisions.
+238|ch06|D|The set of attitudes, values, and standards of behavior that distinguishes one organization from another is called corporate culture.
+239|ch06|D|Controlling is the process of assessing the organization’s progress toward accomplishing its goals.
+239|ch06|C|Actual firm, division, or individual performance can be measured against desired performance standards to see if a gap exists between the desired level of performance and the actual level of performance.
+240|ch06|C|If a part is defective or not installed properly, the next worker won’t accept it.
+240|ch06|D|Third, control systems provide a means of coordinating employee activities and integrating resources throughout the organization. 6.6 Managerial Roles 6.
+240|ch06|D|A role is a set of behavioral expectations, or a set of activities that a person is expected to perform.
+242|ch06|D|The earlier example of the Norfolk Southern employee, who had to decide the best way to salvage a five-mile- long piece of railroad track from the bottom of Lake Pontchartrain, is an example of a nonprogrammed decision.
+242|ch06|C|Although it is more common to focus on problems because of their obvious negative effects, managers who do not take advantage of new opportunities may lose competitive advantage to other firms. 2.
+243|ch06|C|The degree to which each type of skill is used depends upon the level of the manager’s position as seen in Exhibit 6.8.
+244|ch06|D|Human Relations Skills Human relations skills are the interpersonal skills managers use to accomplish goals through the use of human resources.
+246|ch06|C|Managers should ask for help if they need it, and finally, managers must learn from the experience to avoid the same problem in the future.22 Table 6.6 describes what CEOs and other leaders learned about crisis management.
+246|ch06|D|Managers and Information Technology The second trend having a major impact on managers is the proliferation of data and analytics in information technology.
+246|ch06|D|More important, however, is the ability of a dashboard to show up-to-the-minute information and to allow employees to see all the information they need—such as financial and performance data—on a single screen.
+247|ch06|D|The company, which had extended payroll by 30 days to affected employees, now encourages all employees to use direct deposit as a means to ensure access to their pay.
+249|ch06|C|American, German, and Swiss cultures, among others, take a linear view of time, whereas southern European counties such as Italy take a multi-active time approach, and many Eastern cultures, such as China, take a cyclic approach.
+262|ch07|D|• Assigning authority and responsibilities (delegation) The result of the organizing process is a formal structure within an organization.
+262|ch07|D|An organization is the order and design of relationships within a company or firm.
+263|ch07|D|The degree to which the tasks are subdivided into smaller jobs is called specialization.
+263|ch07|C|However, a high degree of specialization can also result in employees who are disinterested or bored due to the lack of variety and challenge.
+263|ch07|D|This grouping of people, tasks, and resources into organizational units is called departmentalization.
+265|ch07|D|For example, ITT is a diversified leading manufacturer of highly engineered components and customized technology solutions for the transportation, industrial, and oil and gas markets.
+268|ch07|C|Although traditional forms of departmentalization still represent how many companies organize their work, newer, more flexible organizational structures are in use at many firms.
+269|ch07|C|Although project-based matrix organizations can improve a company’s flexibility and teamwork, some companies are trying to unravel complex matrix structures that create limited accountability and complicate day-to-day operations.
+270|ch07|D|One of the most apparent trends in business today is the use of teams to accomplish organizational goals.
+270|ch07|D|Norms are the implicit behavioral guidelines of the group, or the standards for acceptable and nonacceptable behavior.
+270|ch07|C|For group decision-making to be most effective, however, both managers and group members must understand its strengths and weaknesses (see Table 7.1).
+272|ch07|D|Gore’s Elixir is the number one selling string brand for acoustic guitar players.11 An adaptation of the team concept is called a cross-functional team.
+272|ch07|D|The goal of teaming is to move decision-making and authority as close to the end-product as possible, which means front-line employees are accountable for meeting performance goals on a daily basis.
+272|ch07|C|For example, if there is some sort of delay in the manufacturing process, it is up to the team to figure out how to keep things moving—even if that means skipping breaks or changing their work schedules to overcome obstacles.
+274|ch07|C|Matrix organizations automatically violate the unity of command principle because employees report to more than one boss, if only for the duration of a project.
+275|ch07|D|Exercising authority means making decisions and seeing that they are carried out.
+275|ch07|D|A manager’s span of control (sometimes called span of management) is the number of employees the manager directly supervises.
+275|ch07|C|As Table 7.2 shows, however, both narrow and wide spans of control have benefits and drawbacks.
+276|ch07|C|If hundreds of employees perform the same job, one supervisor may be able to manage a very large number of employees.
+276|ch07|D|Centralization is the degree to which formal authority is concentrated in one area or level of the organization.
+276|ch07|D|Decentralization is the process of pushing decision-making authority down the organizational hierarchy, giving lower-level personnel more responsibility and power to make and implement decisions.
+278|ch07|D|This combination of elements results in what is called a tall organizational structure.
+278|ch07|C|In contrast, an organic organization is characterized by a relatively low degree of job specialization, loose departmentalization, few levels of management, wide spans of control, decentralized decision-making, and a short chain of command.
+278|ch07|D|This combination of elements results in what is called a flat organizational structure.
+279|ch07|C|A company’s organizational structure should enable it to achieve its goals, and because setting corporate goals is part of a firm’s overall strategy-making process, it follows that a company’s structure depends on its strategy.
+279|ch07|D|Such is the case at Microsoft, where CEO Satya Nadella cut more than 18,000 jobs in 2014 after taking the helm at the technology giant.
+280|ch07|C|It’s much easier to be successful with decentralized decision-making, for example, if you have only 50 employees.
+281|ch07|C|Although not as simple as A-B-C, the new organizational structure seems to streamline processes while allowing the various businesses room to grow on their own.
+282|ch07|D|The network of connections and channels of communication based on the informal relationships of individuals inside the organization is known as the informal organization.
+282|ch07|C|If you were a long-time “Googler,” how would feel about the change in organizational structure at the company? 2.
+283|ch07|C|Survey participants were asked if they would believe a message delivered in a speech by a company leader or one that they heard over the grapevine.
+285|ch07|C|Although firms that are purely virtual organizations are still relatively scarce, many companies are embracing several characteristics of the virtual structure.
+286|ch07|C|If feasible, at least one face-to-face meeting during the early stages of team formation will help with these potential problems.
+287|ch07|C|These issues and many more must be resolved if mergers of global companies are to succeed.
+299|ch08|C|Whether faced with a large or small human resources problem, supervisors need some understanding of difficult employee-relations issues, especially if there are legal implications.
+299|ch08|D|Human resource (HR) management is the process of hiring, developing, motivating, and evaluating employees to achieve organizational goals.
+301|ch08|D|Information about a specific job typically begins with a job analysis, which is a study of the tasks required to do a job well.
+301|ch08|D|HR Planning and Forecasting Forecasting an organization’s human resource needs, known as an HR demand forecast, is an essential aspect of HR planning.
+304|ch08|D|Two sources of job applicants are the internal and external labor markets.
+304|ch08|D|The internal labor market consists of employees currently employed by the firm; the external labor market is the pool of potential applicants outside the firm.
+305|ch08|D|It is a giant database of contacts with profiles that provide an overview of a person’s past and present professional experience, skills, professional referrals, and affiliations with business and professional associations.
+305|ch08|D|With more than 530 million members worldwide, LinkedIn’s extensive platform is an ideal network for both recruiters and those looking to make their next career move.
+306|ch08|D|Selection is the process of determining which people in the applicant pool possess the qualifications necessary to be successful on the job.
+306|ch08|D|An applicant who can jump over each step, or hurdle, will very likely receive a job offer; thus, this is known as the successive hurdles approach to applicant screening.
+307|ch08|D|The tool most widely used in making hiring decisions is the selection interview, an in- depth discussion of an applicant’s work experience, skills and abilities, education, and career interests.
+308|ch08|C|If applicants pass the selection interview, most firms examine their background and check their references.
+311|ch08|D|Exhibit 8.7 Here is the final assembly process on an Airbus 787-10 for Singapore Airlines.
+311|ch08|D|More important, however, is the specific job orientation by the new employee’s supervisor concerning work rules, equipment, and performance expectations.
+312|ch08|D|Job rotation is the reassignment of workers to several different jobs over time.
+312|ch08|C|Whereas mentoring is typically conducted through ongoing face-to-face interactions between mentor and mentee, technology now allows for a long-distance mentoring relationship.
+312|ch08|D|According to the BGRS 2016 Global Mobility Trends Survey, providing high levels of service to relocating employees and their families is a fundamental expectation.
+313|ch08|D|One of the most important is the KPMG Code of Conduct, which defines the values and standards by which KPMG conducts business and is intended to help guide actions and behaviors of its global workforce.
+314|ch08|D|A performance appraisal is a comparison of actual performance with expected performance to determine an employee’s contributions to the organization and to make decisions about training, compensation, promotion, and other job changes.
+316|ch08|D|What are the steps in the performance planning and appraisal process? 2.
+317|ch08|C|For instance, if a drill-press operator and a lathe operator are considered of equal importance, they may both be paid $21 per hour. 2.
+317|ch08|D|Direct pay is the wage or salary received by the employee; indirect pay consists of various employee benefits and services.
+318|ch08|D|With either a bonus or a profit share, an important incentive pay consideration is whether the bonus or profit share is the same for all employees or whether it is differentiated by level in the organization, base pay, or some other criterion.
+318|ch08|D|Choice Homes, a large-scale builder of starter homes, pays an annual incentive share that is the same for everyone; the president receives the same profit share or bonus as the lowest-paid employee.
+318|ch08|C|A younger employee with a family may desire to purchase medical, disability, and life insurance, whereas an older employee may want to put more benefit dollars into a retirement savings plan.
+319|ch08|D|The first year, we spent $100 million building out stores, which is a significant marketing budget for anyone.” But the defining moment for the brand was the stock option and employee benefit plan.
+319|ch08|C|If you give up some equity to employees, they’ll reward you for that.” Critical Thinking Questions 1.
+320|ch08|D|A labor union, such as the International Brotherhood of Teamsters, is an organization that represents workers in dealing with management over disputes involving wages, hours, and working conditions.
+320|ch08|D|The labor relations process that produces a union-management relationship consists of three phases: union organizing, negotiating a labor agreement, and administering the agreement.
+321|ch08|D|A federation is a collection of unions banded together to further organizing, public relations, political, and other mutually-agreed-upon purposes of the member unions.
+321|ch08|C|However, it is illegal for employers to interfere directly with the card- signing campaign or to coerce employees into not joining the union.
+323|ch08|D|Once both sides approve, the contract is a legally binding agreement that typically covers such
+324|ch08|D|The most common union security arrangement is the union shop, whereby nonunion workers can be hired by the firm, but then they must join the union, normally within 30 to 60 days.
+324|ch08|D|An agency shop does not require employees to join the union, but to remain employees, workers must pay the union a fee (known as the agency fee) to cover the union’s expenses in representing them.
+325|ch08|C|A typical clause gives the employer all rights to manage the business except as specified in the contract.
+325|ch08|D|Seniority is a factor in job security; usually, unions want the workers with the most seniority to have the most job security.
+326|ch08|C|Conflicts over contracts, however, are far more challenging to resolve and may result in the union or employer imposing economic pressure, as described in this section.
+326|ch08|D|Grievance Handling and Arbitration The union’s main way of policing the contract is the grievance procedure.
+326|ch08|D|A grievance is a formal complaint by an employee or the union that management has violated some part of the contract.
+327|ch08|D|Exhibit 8.12 Ezekiel Elliott is a star running back for the Dallas Cowboys who was suspended by NFL commissioner Roger Goodell for six games in the 2017 season.
+327|ch08|C|What options did Elliott and the NFLPA have after losing this court case? (Credit: grantlairdjr/ flickr/ Attribution 2.0 Generic (CC BY 2.0)) If the problem isn’t solved, the grievance is put in writing.
+327|ch08|D|Arbitration is the process of settling a labor-management dispute by having a third party—a single arbitrator or a panel—make a decision.
+328|ch08|C|However, when a contract expires and a new agreement has not been reached, the union is free to strike or engage in other efforts to exert economic pressure on the employer.
+330|ch08|C|Although this law has been in place for several decades, progress has been slow.
+331|ch08|C|For instance, manufacturers must require their employees working on loading docks to wear steel-toed shoes so their feet won’t be injured if materials are dropped.
+331|ch08|D|Another employee law that continues to affect the workplace is the Americans with Disabilities Act.
+332|ch08|C|However, many work-related deaths also happen in common highway accidents or as homicides.
+333|ch08|C|Although overall labor union enrollment continues to decline, a possible surge in membership in service unions is anticipated.
+334|ch08|D|profile that looks like its customers may be in a position to gain a competitive advantage, which is a set of unique features of a company and its product or service that are perceived by the target market as superior to those of the competition.
+334|ch08|D|Competitive advantage is the factor that causes customers to patronize a firm and not the competition.
+335|ch08|C|With union membership now down to a little more than 10 percent of the U.S. workforce, some wonder if labor unions, who organize as a united front against poor working conditions, still have a place in the country.

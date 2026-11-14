@@ -1,0 +1,19 @@
+{
+  "strategy": "A",
+  "embed_model": "BAAI/bge-small-en-v1.5",
+  "dim": 384,
+  "n_chunks": 531,
+  "n_in_collection": 531,
+  "stale_removed": 0,
+  "chars_total": 244829,
+  "chars_min": 41,
+  "chars_mean": 461.1,
+  "chars_median": 500,
+  "chars_max": 500,
+  "tokens_total": 48974,
+  "tokens_max": 152,
+  "sec_chunk": 0.36,
+  "sec_embed": 46.27,
+  "sec_store": 2.3,
+  "cost_usd": 0.0
+}

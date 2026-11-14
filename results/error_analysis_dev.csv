@@ -1,0 +1,13 @@
+config,qid,nhan_loi,ghi_chu
+A,q03,evidence_bi_cat,top1 trang dung nhung chunk chi chua phan sau cua doan; hit3=False
+A,q18,evidence_bi_cat,evidence bi cat giua chu implement o 500 ky tu; ca top3 cung trang 276; hit3=False
+A,q11,sai_trang_rank1,rank1 trang 320 (union chung); hit o rank 2 (trang 324)
+A,q17,sai_trang_rank1,rank1 trang 328 (strike); hit o rank 2 (trang 326)
+B,q06,dung_trang_sai_chunk,top1 la doan unity of command khong noi matrix vi pham; hit3=False
+B,q11,dung_trang_sai_chunk,top1 la doan open shop/Taft-Hartley; hit o rank 3
+B,q13,dung_trang_sai_chunk,top1 la doan corporate culture evolves, thieu dinh nghia; hit o rank 3
+B,q15,sai_trang_rank1_2,rank1-2 la trang 283 va 284 cung chu de informal organization; hit o rank 3
+C,q06,dung_trang_sai_chunk,giong B (filter khong doi ket qua vi khong co filter o cau nay)
+C,q11,dung_trang_sai_chunk,giong B
+C,q13,dung_trang_sai_chunk,giong B
+C,q15,sai_trang_rank1_2,giong B; filter section khong giup vi cung ch07
