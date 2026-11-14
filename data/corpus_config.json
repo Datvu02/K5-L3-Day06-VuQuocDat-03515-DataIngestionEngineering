@@ -1,0 +1,19 @@
+{
+    "corpus_name": "openstax_intro_business_ch6_8",
+    "documents": [
+      {
+        "source_id": "doc01",
+        "title": "Introduction to Business (OpenStax, Rice University, 2018)",
+        "source_path_or_url": "https://openstax.org/details/books/Introduction-Business",
+        "local_path": "data/raw/doc01.pdf",
+        "license_or_permission": "CC BY 4.0. (c) 2018 Rice University. Textbook content produced by OpenStax is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0). Attribution: Download for free at https://openstax.org/details/books/Introduction-Business.",
+        "version_or_snapshot": "Revision Number IB-2018-000(09/18)-BKB; Original Publication Year 2018; page footer cites cnx.org col25734 version 1.7",
+        "sections": [
+          {"section_id": "ch06", "title": "Management and Leadership in Today's Organizations", "pages": [[223, 250]]},
+          {"section_id": "ch07", "title": "Designing Organizational Structures", "pages": [[261, 263], [265, 288]]},
+          {"section_id": "ch08", "title": "Managing Human Resources and Labor Relations", "pages": [[299, 336]]}
+        ],
+        "excluded_note": "Chapters 6-8, PDF physical pages 1-based. Counted only numbered content sections. Excluded: chapter Introduction pages, Glossary, Summary of Learning Outcomes, Preparing for Tomorrow's Workplace Skills, Ethics Activity, Working the Net, Critical Thinking Case, Hot Links Address Book, page 264 (only header/footer and a figure, no body text), cover, table of contents, preface, other chapters, References, Index."
+      }
+    ]
+  }

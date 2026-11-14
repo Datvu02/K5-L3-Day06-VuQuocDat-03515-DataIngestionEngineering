@@ -1,0 +1,1404 @@
+
+===== TRANG PDF 299 =====
+Successful human resource management is based on a company’s ability to attract and hire the best
+employees, equip them with the knowledge and skills they need to excel, compensate them fairly, and
+motivate them to reach their full potential and perform at high levels. Today’s business environment presents
+numerous challenges to effectively managing employees:
+•
+Technology continues to advance, which places great importance on knowledge workers, especially when
+demand outstrips the supply of high-talent individuals.
+•
+Global business operations involve rapid data transfer and necessitate accelerated decision-making by
+executive and technical employees.
+•
+The workforce is increasingly more diversified and multicultural, which places increased emphasis on
+communication and cultural understanding.
+•
+Work, life, and family priorities are more difficult to balance as dual-worker families populate the labor
+force.
+•
+Employment and labor laws continue to greatly influence employee recruitment and hiring,
+compensation decisions, and employee retention and turnover in both union and nonunion
+organizations.
+Each day, human resource experts and front-line supervisors deal with these challenges while sharing
+responsibility for attracting and retaining skilled, motivated employees. Whether faced with a large or small
+human resources problem, supervisors need some understanding of difficult employee-relations issues,
+especially if there are legal implications.
+In this chapter, you will learn about the elements of the human resource management process, including
+human resource planning and job analysis and design, employee recruitment and selection, training and
+development of employees, performance planning and evaluation, and compensation of the workforce. The
+chapter also describes labor unions and their representation of millions of American workers in construction,
+manufacturing, transportation, and service-based industries.
+8.1
+Achieving High Performance through Human Resources Management
+1.
+What is the human resource management process, and how are human resource needs determined?
+Human resource (HR) management is the process of hiring, developing, motivating, and evaluating
+employees to achieve organizational goals. The goals and strategies of the firm’s business model form the
+basis for making human resource management decisions. HR practices and systems comprise the firm’s
+human resource decision support system that is intended to make employees a key element for gaining
+competitive advantage. To this end, the HR management process contains the following sequenced activities:
+•
+Job analysis and design
+•
+Human resource planning and forecasting
+•
+Employee recruitment
+•
+Employee selection
+•
+Training and development
+•
+Performance planning and evaluation
+•
+Compensation and benefits
+The human resource management process shown in Exhibit 8.3 encourages the development of high-
+performance employees. The process is sequential because employees can’t be trained and paid until selected
+and placed in jobs, which follows recruitment, which is preceded by human resource planning and job analysis
+and design. Good HR practices used along this sequence foster performance improvement, knowledge and
+skill development, and loyal employees who desire to remain with the organization.
+
+===== TRANG PDF 300 =====
+Exhibit 8.2
+A job fair, career fair or career expo, are events in which employers, recruiters, and schools give information to potential
+employees and job seekers attend hoping to make a good impression to potential employers. They also interact with potential coworkers by
+speaking face-to-face, exchanging résumés, and asking questions in attempt to get a good feel on the work needed. Likewise, online job fairs
+are held, giving job seekers another way to get in contact with probable employers using the internet. How do you plan on using events like this in
+seeking your job? How can utilize the courses that you are taking to illustrate your skills that you can discuss at job fairs. (Credit: Taavi Burns/ flickr/
+Attribution 2.0 Generic (CC BY 2.0))
+HR Planning and Job Analysis and Design
+Two important, and somewhat parallel, aspects of the human resource management process are determining
+employee needs of the firm and the jobs to be filled. When Alcon Labs gained approval from the Food and
+Drug Administration for sales of a new contact lens disinfectant solution in its Opti-Free product line, it had to
+determine if additional sales representatives were needed and whether new sales positions with different
+knowledge and skill requirements should be established.1 Human resource planning at Alcon means having
+the right number of people, with the right training, in the right jobs, to meet its sales goals for the new
+product. Once the need for sales representatives is determined, human resource specialists assess the skills of
+the firm’s existing employees to see whether new people must be hired or current people can be trained. See
+Exhibit 8.3 for a representation of the human resource management process.
+
+===== TRANG PDF 301 =====
+Exhibit 8.3
+Human Resource Management Process (Attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license.)
+Human resource planners must know what skills different jobs require. Information about a specific job
+typically begins with a job analysis, which is a study of the tasks required to do a job well. This information is
+used to specify the essential skills, knowledge, and abilities required for the job. When Hubert Joly started as
+the CEO at Best Buy, the retailer was facing serious financial pressures. The threat of online competition from
+Amazon was real. Joly was also facing a staffing issue with a lot of turnover. He and his team instituted a plan
+to keep and promote staff as a core competency that would differentiate Best Buy from online retailers.2 Also,
+a key HR responsibility is that jobs are examined to make any changes in job duty and task responsibilities. The
+tasks and responsibilities of a job are listed in a job description. The skills, knowledge, and abilities a person
+must have to fill a job are spelled out in a job specification. These two documents help human resource
+planners find the right people for specific jobs. A sample job description and specification is shown in Table
+8.1.
+HR Planning and Forecasting
+Forecasting an organization’s human resource needs, known as an HR demand forecast, is an essential aspect
+of HR planning. This process involves two forecasts: (1) determining the number of people needed by some
+future time (in one year, for example) and (2) estimating the number of people currently employed by the
+organization who will be available to fill various jobs at some future time; this is an internal supply forecast.
+
+===== TRANG PDF 302 =====
+Job Description and Specification
+Position: College Recruiter
+Reports to: Vice President
+of Human
+Location: Corporate Offices Resources Classification: Salaried/
+Exempt
+Job Summary:
+Member of HR corporate team. Interacts with managers and department heads to determine
+hiring needs for college graduates. Visits 20 to 30 college and university campuses each year to
+conduct preliminary interviews of graduating students in all academic disciplines. Following initial
+interviews, works with corporate staffing specialists to determine persons who will be interviewed
+a second time. Makes recommendations to hiring managers concerning best-qualified applicants.
+Job Duties and Responsibilities:
+Estimated time spent and importance:
+15%
+Working with managers and department heads, determines college
+recruiting needs.
+10%
+Determines colleges and universities with degree programs
+appropriate to hiring needs to be visited.
+15%
+Performs college relations activities with numerous colleges and
+universities.
+25%
+Visits campuses to conduct interviews of graduating seniors.
+15%
+Develops applicant files and performs initial applicant evaluations.
+10%
+Assists staffing specialists and line managers in determining who to
+schedule for second interviews.
+5%
+Prepares annual college recruiting report containing information
+and data about campuses, number interviewed, number hired, and
+related information.
+5%
+Participates in tracking college graduates who are hired to aid in
+determining campuses that provide the most outstanding
+employees.
+Job Specification (Qualifications):
+Bachelor’s degree in human resource management or a related field. Minimum of two years of
+work experience in HR or department that annually hires college graduates. Ability to perform in a
+team environment, especially with line managers and department heads. Very effective oral and
+written communication skills. Reasonably proficient in Excel, Word, and Windows computer
+environment and familiar with PeopleSoft software.
+
+===== TRANG PDF 303 =====
+The Advancement Planning process at Best Buy involved reducing the turnover that occurs in most retail
+environments. The company has achieved a second-place ranking, behind only Costco, and its general
+managers’ tenure at a store averages five years. The performance of managers at Best Buy is reviewed to
+identify people who can fill vacancies and be promoted, a process known as succession planning.3 If Best Buy
+has a temporary shortage of sales professionals, at the holiday shopping season, for example, they can hire an
+experienced contractor or interim executive as a temporary or contingent worker, someone who wants to
+work but not on a permanent, continuous basis. Exhibit 8.4 summarizes the process of planning and
+forecasting an organization’s personnel needs.
+Exhibit 8.4
+Human Resource Planning Process (Attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license.)
+
+===== TRANG PDF 304 =====
+8.2
+Employee Recruitment
+2.
+How do firms recruit applicants?
+When a firm creates a new position or an existing one becomes vacant, the firm starts looking for people with
+qualifications that meet the requirements of the job. Two sources of job applicants are the internal and
+external labor markets. The internal labor market consists of employees currently employed by the firm; the
+external labor market is the pool of potential applicants outside the firm.
+Exhibit 8.5
+Online recruiting is among the top internet success stories of the past decade. LinkedIn, Monster, and CareerBuilder are hot
+spots for job hunters and recruiters seeking to establish a working relationship. What are the advantages and disadvantages of online recruiting
+compared to traditional forms of recruitment? (Credit: Bill Gates LinkedIn Profile screen capture, 3/23/2018)
+Internal Labor Market
+Internal recruitment can be greatly facilitated by using a human resource information system that contains an
+employee database with information about each employee’s previous work experience, skills, education and
+certifications, job and career preferences, performance, and attendance. Promotions and job transfers are the
+most common results of internal recruiting. BNSF Railway, Walmart, Boeing, Ritz-Carlton Hotels, and most
+other firms, large and small, promote from within and manage the upward mobility of their employees.
+External Labor Market
+The external labor market consists of prospects to fill positions that cannot be filled from within the
+organization. Recruitment is the process of attracting qualified people to form an applicant pool. Numerous
+C O N C E P T C H E C K
+1.
+Define human resource management.
+2.
+Distinguish between job analysis, job description, and the job specification.
+3.
+Describe the human resource management process.
+
+===== TRANG PDF 305 =====
+methods are used to attract applicants, including print, radio, web, and television advertising. Hospitality and
+entertainment firms, such as Ritz-Carlton Hotels and Six Flags, frequently use job fairs to attract applicants. A
+job fair, or corporate open house, is usually a one- or two-day event at which applicants are briefed about job
+opportunities, given tours, and encouraged to apply for jobs. For firms needing accountants, engineers, sales
+managers, and others for professional and scientific positions, college recruiting is very common. These firms
+(Deloitte, Cisco Systems, Salesforce.com, and thousands of others) schedule job fairs and on-campus
+interviews with graduating seniors.
+Online Recruiting and Job Search
+The internet, social media, and specialized software have completely changed the employee recruitment
+process. Dozens of companies such as Monster.com, Indeed, StartWire, and Glassdoor enable applicants to
+search for job openings, post their résumés, and apply for jobs that companies have posted. Most companies
+provide links to their company website and to the career page on their site so applicants can learn about the
+company culture, listen to or read testimonials from employees about what it is like to work for the company,
+and search for additional openings that may interest them.
+Large firms may receive thousands of online applications per month. To review and evaluate thousands of
+online résumés and job applications, firms depend on software to scan and track applicant materials using key
+words to match skills or other requirements for a particular job. Social media has also changed how
+companies search for applicants and verify applicant information.
+M A N A G I N G C H A N G E
+Social Networking and Employee Recruitment
+Referrals and professional networking are commonly used methods of identifying job prospects,
+particularity for managerial, professional, and technical positions. Several software applications and
+social networks facilitate employee referrals, reference checking, and hiring based on networks of
+personal relationships. ExecuNet and ExecRank are just two of the many career sites that allow members
+to search for contacts and network with other professionals in their fields.
+LinkedIn is the most popular social network for professionals. It is a giant database of contacts with
+profiles that provide an overview of a person’s past and present professional experience, skills,
+professional referrals, and affiliations with business and professional associations. A member can search
+through an extended network of contacts based on his or her professional acquaintances. The basis for a
+search can be job, job title, company, geography, zip code, or membership in a professional organization.
+LinkedIn uses the concept that there are no more than six degrees of separation between two people, or
+one person can be linked to any other individual through no more than six other people. With more than
+530 million members worldwide, LinkedIn’s extensive platform is an ideal network for both recruiters
+and those looking to make their next career move.
+LinkedIn, like other social networks, is based on voluntary participation, and members consent to being
+networked. Nevertheless, important questions can be raised regarding privacy concerns and use of one’s
+social network.
+Critical Thinking Questions
+
+===== TRANG PDF 306 =====
+Recruitment Branding
+Recruitment branding involves presenting an accurate and positive image of the firm to those being
+recruited. Carbone Smolan Agency (CSA) is a New York–based image consulting firm that assists in developing
+a recruitment branding strategy.4 The materials developed by CSA comprise a realistic job preview, which
+informs job candidates about organizational realities of the job and the firm so they can more accurately
+evaluate jobs and firm expectations concerning work assignments, performance standards, promotional
+opportunities, company culture, and many other characteristics of the job.
+8.3
+Employee Selection
+3.
+How do firms select qualified applicants?
+After a firm has attracted enough job applicants, employment specialists begin the selection process.
+Selection is the process of determining which people in the applicant pool possess the qualifications
+necessary to be successful on the job. The steps in the employee selection process are shown in Exhibit 8.6.
+An applicant who can jump over each step, or hurdle, will very likely receive a job offer; thus, this is known as
+the successive hurdles approach to applicant screening. Alternatively, an applicant can be rejected at any step
+or hurdle. Selection steps or hurdles are described below:
+1.
+Initial screening. During initial screening, an applicant completes an application form and/or submits a
+résumé, and has a brief interview of 30 minutes or less. The job application includes information about
+educational background, previous work experience, and job duties performed.
+2.
+Employment testing. Following initial screening, the applicant may be asked to take one or more tests, such
+as the Wonderlic Personnel Tests. Wonderlic offers a suite of pre-employment tests for each phase of the
+hiring process. Used individually or together, the tests can assess cognitive ability (ability to learn, adapt,
+1.
+Social networks can easily generate a name for an HR recruiting target, but how can the hiring firm
+convert the target into a candidate who is interested in the job?
+2.
+A social network like LinkedIn is an excellent tool that can be used to build a personal brand and find
+a new job. In what ways could a job seeker potentially harm their career opportunities on a social
+networking site?
+Sources: “About ExecuNet,” https://www.execunet.com, accessed February 8, 2018; “LinkedIn Statistics,”
+https://expandedramblings.com, accessed February 8, 2018; “Social Recruiting Tips,”
+https://www.betterteam.com, January 24, 2018; Susan M. Heathfield, “Use LinkedIn for Recruiting
+Employees,” The Balance, https://www.thebalance.com, April 7, 2017.
+C O N C E P T C H E C K
+1.
+What are the two sources of job applicants?
+2.
+What are some methods firms use to recruit applicants?
+3.
+What is meant by recruitment branding?
+
+===== TRANG PDF 307 =====
+and solve problems), motivation potential (attitude, behavior performance, and productivity), and
+knowledge and skills (math, verbal, data entry, software proficiency).5
+HR Senior Vice President Martha LaCroix of the Yankee Candle Company uses personality assessments to
+make sure that prospective employees will fit the firm’s culture. LaCroix was helped by Predictive Index
+(PI) Worldwide in determining Yankee Candle’s best- and worst-performing store managers for
+developing a best practice behavioral profile of a top-performing store manager.6 The profile was used
+for personality testing and to develop interview questions that reveal how an applicant may behave in
+certain work situations.
+Exhibit 8.6
+Steps of the Employee Selection Process (Attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license.)
+3.
+Selection interview. The tool most widely used in making hiring decisions is the selection interview, an in-
+depth discussion of an applicant’s work experience, skills and abilities, education, and career interests.
+For managerial and professional positions, an applicant may be interviewed by several persons, including
+the line manager for the position to be filled. This interview is designed to determine a person’s
+communication skills and motivation. During the interview, the applicant may be presented with realistic
+job situations, such as dealing with a disgruntled customer, and asked to describe how he or she would
+handle the problem. Carolyn Murray of W.L. Gore & Associates (maker of Gore-Tex, among other
+products) listens for casual remarks that may reveal the reality behind applicant answers to her
+questions. Using a baseball analogy, Murray gives examples of how three job candidates struck out with
+her questions. See Table 8.2.7
+
+===== TRANG PDF 308 =====
+Striking Out at the Interview Game
+The Pitch (Question
+to Applicant)
+The Swing (Applicant’s Response)
+The Miss (Interviewer’s Reaction to
+Response)
+“Give me an
+example of a time
+when you had a
+conflict with a
+team member.”
+“Our leader asked me to handle
+all of the FedExing for our team. I
+did it, but I thought that FedExing
+was a waste of my time.”
+“At Gore, we work from a team
+concept. Her answer shows that she
+won’t exactly jump when one of her
+teammates needs help.”
+“Tell me how you
+solved a problem
+that was impeding
+your project.”
+“One of the engineers on my
+team wasn’t pulling his weight,
+and we were closing in on a
+deadline. So I took on some of his
+work.”
+“The candidate may have resolved
+the issue for this particular deadline,
+but he did nothing to prevent the
+problem from happening again.”
+“What’s the one
+thing that you
+would change
+about your current
+position?”
+“My job as a salesman has
+become boring. Now I want the
+responsibility of managing
+people.”
+“He’s probably not maximizing his
+current territory, and he is
+complaining. Will he find his next role
+‘boring’ and complain about that
+role, too?”
+Table 8.2
+4.
+Background and reference check. If applicants pass the selection interview, most firms examine their
+background and check their references. In recent years, an increasing number of employers, such as
+American Airlines, Disney, and Microsoft, are carefully researching applicants’ backgrounds, particularly
+their legal history, reasons for leaving previous jobs, and even creditworthiness.
+5.
+Physical exams and drug testing. A firm may require an applicant to have a medical checkup to ensure he
+or she is physically able to perform job tasks. Drug testing is common in the transportation and health
+care industries. Southwest Airlines, BNSF Railway, Texas Health Resources, and the U.S. Postal Service use
+drug testing for reasons of workplace safety, productivity, and employee health.
+6.
+Decision to hire. If an applicant progresses satisfactorily through all the selection steps (or jumps all of the
+selection hurdles), a decision to hire the person is made; however, the job offer may be contingent on
+passing a physical exam and/or drug test. The decision to hire is nearly always made by the manager of
+the new employee.
+An important aspect of employee recruitment and selection involves treating job applicants as valued
+customers; in fact, some applicants may be customers of the firm.
+C U S T O M E R S AT I S FA C T I O N A N D Q U A L I T Y
+Puttin’ on the Ritz—For Potential Employees
+Your meeting with a human resource representative is often your first exposure to the company you are
+applying to work for, and firms must provide good customer service to applicants if they expect to hire
+
+===== TRANG PDF 309 =====
+the most qualified employees.
+Companies have several opportunities to create a positive impression of their organization during these
+key points in the employee selection process. These include a variety of communication channels, such
+as:
+•
+In-person greetings at a job fair or at the interview itself
+•
+Phone calls to a prospective employee from a human resource professional to set up the interview
+and any follow-up conversations between human resources and the applicant
+•
+E-mail correspondence to acknowledge receipt of an application and to thank applicants for
+submitting their job application
+•
+A thank-you note from the employer following the second interview
+A firm that is recognized for treating prospective employees especially well is Ritz-Carlton Hotels, a
+subsidiary of Marriott International. When the Washington D.C. Ritz-Carlton was recruiting employees to
+staff a new hotel, the goal was to provide applicants with a personal demonstration of the famous Ritz-
+Carlton service-oriented culture.
+As applicants arrived, they experienced the Ritz-Carlton “warm welcome” from several employees who
+greeted them, wished them luck, and escorted them past a violinist and piano player to the waiting
+room, where beverages and snacks were available. Applicants went through a standardized screening
+questionnaire, and those who passed went on to a professionally developed structured interview.
+Individuals were then personally escorted to the “fond farewell,” where they were thanked, given Ritz-
+Carlton chocolates, and escorted out of the hotel. The goal of Ritz-Carlton managers is to give applicants
+the same experience they would expect to receive as a customer staying in the hotel. Every applicant
+receives a personal, formal thank-you note for coming to the job fair, and those who are considered for
+positions but later rejected receive another note. Ritz-Carlton wants to make a good impression because
+an applicant could be a future Ritz-Carlton hotel guest, or the son or daughter of a guest.
+Ritz-Carlton continues to show exemplary service during the employee orientation process. Every
+employee must go through seven days of training before ever working in a Ritz-Carlton. Two full days of
+the orientation are indoctrination in the Ritz-Carlton values and philosophy. The goal is to create a
+significant emotional experience for new employees during their first few days. This happens the
+moment new employees arrive for training at 6:00 a.m. and see senior leaders lined up outside the doors
+of the hotel, clapping and cheering as they greet them. The message is clear: You are important and we
+will treat you exactly as we want you to treat customers.
+The leadership team is involved in facilitating the program, sending a powerful message about the
+importance of consensual commitment. “For these next few days, we will orient you to who we are—our
+heart, our soul, our goals, our vision, our dreams—so you can join us, and not just work for us.”
+Horst Schultz, former president and COO of the Ritz-Carlton, first implemented the motto “We Are Ladies
+and Gentlemen Serving Ladies and Gentlemen” in the mid-1980s, and the motto is still at the heart of the
+company’s values today. In an address to employees, Schultz said, “You are not servants. We are not
+servants. Our profession is service. We are Ladies and Gentlemen, just as the guests are, who we respect
+as Ladies and Gentlemen. We are Ladies and Gentlemen and should be respected as such.”
+Critical Thinking Questions
+1.
+What are the benefits of an employer treating a job applicant like a customer? Are there costs
+associated with treating applicants poorly?
+2.
+What is the Ritz-Carlton motto? How does it teach both applicants and employees about the
+
+===== TRANG PDF 310 =====
+8.4
+Employee Training and Development
+4.
+What types of training and development do organizations offer their employees?
+To ensure that both new and experienced employees have the knowledge and skills to perform their jobs
+successfully, organizations invest in training and development activities. Training and development involves
+learning situations in which the employee acquires additional knowledge or skills to increase job performance.
+Training objectives specify performance improvements, reductions in errors, job knowledge to be gained, and/
+or other positive organizational results. The process of creating and implementing training and development
+activities is shown in Exhibit 8.8. Training is done either on the job or off the job.
+company’s values?
+Sources: “Gold Standards,” http://www.ritzcarlton.com, accessed February 8, 2018; “Lifetime Learning
+Opportunities,” http://www.marriott.com, accessed February 8, 2018; Justin Hoffman, “Secrets of the
+Ritz-Carlton’s ‘Legendary’ Customer Service,” https://www.psafinancial.com, May 8, 2014; Sandra J.
+Sucher and Stacy McManus, “The Ritz-Carlton Hotel Company,” Harvard Business School Case #601-163,
+March 2001; revised September 2005.
+C O N C E P T C H E C K
+1.
+Describe the employee selection process.
+2.
+What are some of the ways that prospective employees are tested?
+
+===== TRANG PDF 311 =====
+Exhibit 8.7
+Here is the final assembly process on an Airbus 787-10 for Singapore Airlines. This plant is one of Airbus’s largest and most
+technologically advanced manufacturing facilities. How is technology helping companies develop skilled workers both on and off the job? (Credit:
+airbus777/Flickr/ Attribution 2.0 Generic (CC BY 2.0))
+On-the-Job Training
+New-employee training is essential and usually begins with orientation, which entails getting the new
+employee ready to perform on the job. Formal orientation (often a half-day classroom program) provides
+information about the company history, company values and expectations, policies, and the customers the
+company serves, as well as an overview of products and services. More important, however, is the specific job
+orientation by the new employee’s supervisor concerning work rules, equipment, and performance
+expectations. This second briefing tends to be more informal and may last for several days or even weeks.
+Exhibit 8.8
+Employee Training and Development Process (Attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license.)
+
+===== TRANG PDF 312 =====
+Beyond employee orientation, job training takes place at the job site or workstation and is directly related to
+the job. This training involves specific job instruction, coaching (guidance given to new employees by
+experienced ones), special project assignments, or job rotation. Job rotation is the reassignment of workers to
+several different jobs over time. At Walmart, management trainees rotate through three or more
+merchandizing departments, customer service, credit, and even the human resource department during the
+first year or two on the job.
+Two other forms of on-the-job training are apprenticeship and mentoring. An apprenticeship usually
+combines specific on-the-job instruction with classroom training. It may last as long as four years and can be
+found in the skilled trades of carpentry, plumbing, and electrical work. Mentoring involves a senior manager
+or other experienced employee providing job- and career-related information to a mentee. Inexpensive and
+providing instantaneous feedback, mentoring is becoming increasingly popular with many firms, including
+FedEx, Merrill Lynch, Dow Chemical, and Bank of America. Whereas mentoring is typically conducted through
+ongoing face-to-face interactions between mentor and mentee, technology now allows for a long-distance
+mentoring relationship. Dow Chemical uses e-mail and video conferencing to facilitate long-distance
+mentoring between persons who are working in different countries. For a mentee whose second language is
+English, writing e-mail messages in English helps the individual become fluent in English, which is a
+requirement of all Dow Chemical employees regardless of location and country of origin.8
+E X PA N D I N G A R O U N D T H E G L O B E
+Employees on the (International) Move
+Working abroad at one of the thousands of American or foreign multinational firms can be exciting and
+look good on your résumé. But is an international job assignment a step up the ladder to a more
+rewarding career path or a potential minefield of professional and family risk? The answer depends as
+much on an employee’s family situation as his or her ambition, as well as how well the company
+supports and handles a transfer to an international location.
+International job experience is increasingly seen as an essential leadership competency; therefore, many
+companies have developed robust rotational programs designed to give individuals critical global
+experience. According to the BGRS 2016 Global Mobility Trends Survey, providing high levels of service to
+relocating employees and their families is a fundamental expectation.
+Brookfield Global Relocation Services (BGRS) is a talent mobility and relocation services firm that
+manages more than 60,000 relocations in 140 countries each year for its corporate and government
+clients. With 15 offices around the world, the company’s staff (that speaks 40 languages) can tap into
+their network of 1,900 trusted suppliers to help employees and families acclimate to their new work and
+home environments.
+Increasing numbers of recent college graduates and experienced professionals are offered opportunities
+for overseas work assignments ranging from a few days to 24 months or longer. But acclimating to a
+new country and culture, as well as a new work environment, can be daunting and involves some unique
+challenges.
+Challenges face expatriates aside from the demands of work include:
+
+===== TRANG PDF 313 =====
+Off-the-Job Training
+Even with the advantages of on-the-job training, many firms recognize that it is often necessary to train
+employees away from the workplace. With off-the-job training, employees learn the job away from the job.
+There are numerous popular methods of off-the-job training. It frequently takes place in a classroom, where
+cases, role-play exercises, films, videos, lectures, and computer demonstrations are used to develop workplace
+skills.
+•
+Choosing schools for children
+•
+Securing housing
+•
+Finding medical facilities
+•
+Opening bank accounts
+•
+Finding transportation and obtaining a driver’s license
+•
+Completing government forms
+•
+Locating food stores
+•
+Learning about community and entertainment offerings
+With 189,000 worldwide staff and partners, KPMG International is one of the world’s largest professional
+services and accounting firms, with a presence in 152 countries. Through programs like the KPMG Global
+Opportunities (GO) program, the professionals at KPMG can explore job rotation assignments, transfer
+to a new location, or change to a new job function or group. The company’s Career Mobility Connection
+tool allows employees to evaluate opportunities based on their interests and to seek guidance from a
+transition advisor on potential career opportunities.
+KPMG has developed several programs and standards to guide employees and establish consistency,
+whether they work in the United States or abroad. One of the most important is the KPMG Code of
+Conduct, which defines the values and standards by which KPMG conducts business and is intended to
+help guide actions and behaviors of its global workforce.
+Every year, all KPMG employees and partners are required to affirm their agreement to comply with the
+Code of Conduct. In addition, all partners and employees are required to complete mandatory training
+that reinforces the principles of the Code and further builds understanding of the firm’s expectations.
+Critical Thinking Questions
+1.
+How is KPMG’s Global Code of Conduct intended to influence and guide the personal values and
+behaviors of its employees and partners?
+2.
+Why must the Code of Conduct be affirmed by employees and partners every year? Why does KPMG
+include their partners in this program?
+3.
+What are the top four or five job qualifications an employee should have to be considered for an
+overseas assignment?
+Sources: Corrine Purtill, “Expat Couples Do Best When They’ve Moved for the Woman’s Job,” Quartz at
+Work, December 6, 2017; https://work.qz.com/1134685/expat-couples-do-best-when-theyve-moved-for-
+the-womans-job/; Donald Murray, “The 7 Greatest Challenges of Moving Overseas and How to Resolve
+Them,” International Living, March 15, 2018, https://internationalliving.com/the-7-greatest-challenges-of-
+moving-overseas-and-how-to-resolve-them/; “KPMG’s Code of Conduct,” Accessed March 15, 2018,
+https://home.kpmg.com/us/en/home/about/kpmgs-code-of-conduct.html.
+
+===== TRANG PDF 314 =====
+Web-based technology is increasingly being used along with more traditional off-the-job training methods. E-
+learning and e-training involve online computer presentation of information for learning new job tasks. Union
+Pacific Railroad has tens of thousands of its employees widely dispersed across much of the United States, so it
+delivers training materials online to save time and travel costs. Technical and safety training at Union Pacific
+are made available as programmed instruction, an online, self-paced, and highly structured training method
+that presents trainees with concepts and problems using a modular format. Software provided can make sure
+that employees receive, undergo, and complete, as well as sign off on, various training modules.9
+Web-based training can also be done using a simulation, for example, a scaled-down version of a
+manufacturing process or even a mock cockpit of a jet airplane. American Airlines uses a training simulator for
+pilots to practice hazardous flight maneuvers or learn the controls of a new aircraft in a safe, controlled
+environment with no passengers. The simulator allows for more direct transfer of learning to the job.
+8.5
+Performance Planning and Evaluation
+5.
+How are performance appraisals used to evaluate employee performance?
+Along with employee orientation and training, new employees learn about performance expectations through
+performance planning and evaluation. Managers provide employees with expectations about the job. These
+are communicated as job objectives, schedules, deadlines, and product and/or service quality requirements.
+As an employee performs job tasks, the supervisor periodically evaluates the employee’s efforts. A
+performance appraisal is a comparison of actual performance with expected performance to determine an
+employee’s contributions to the organization and to make decisions about training, compensation, promotion,
+and other job changes. The performance planning and appraisal process is shown in Exhibit 8.9 and described
+below.
+1.
+The manager establishes performance standards.
+2.
+The employee works to meet the standards and expectations.
+3.
+The employee’s supervisor evaluates the employee’s work in terms of quality and quantity of output and
+various characteristics such as job knowledge, initiative, relationships with others, and attendance and
+punctuality.
+4.
+Following the performance evaluation, reward (pay raise) and job change (promotion) decisions can be
+made. If work is unsatisfactory, the employee may be put on a performance improvement plan, which
+outlines the behaviors or performance that must be improved, the milestones and time periods to
+improve performance, and what will occur if performance is not improved.
+5.
+Rewards are positive feedback and provide reinforcement, or encouragement, for the employee to
+continue improving their performance.
+It was once common practice for performance approvals to be conducted on an annual basis, but most
+companies have moved away from that standard. Instead, managers are encouraged to provide employees
+C O N C E P T C H E C K
+1.
+Describe several types of on-the-job training.
+2.
+What are the advantages of simulation training?
+3.
+How is technology impacting off-the-job training?
+
+===== TRANG PDF 315 =====
+with continuous real-time feedback so that skill development and job performance can be improved more
+rapidly.
+Information for performance appraisals can be assembled using rating scales, supervisor logs of employee job
+incidents, and reports of sales and production statistics. Regardless of the source, performance information
+should be accurate and a record of the employee’s job behavior and efforts. Table 8.3 illustrates a rating scale
+for one aspect of a college recruiter’s job. A rating of “9” is considered outstanding job behavior and
+performance; a rating of “1” is viewed as very poor to unacceptable.
+Exhibit 8.9
+Performance Planning and Evaluation
+Example of Behavior-Based Rating Scale for Performance Appraisal
+Position: College Recruiter
+Job Description: Visits campuses and conducts interviews of graduating seniors
+Explanation of Rating
+Performance
+Rating
+Explanation of Rating
+This recruiter plans and organizes spring-
+semester college-recruiting schedule to
+minimize travel expenses and maximize the
+number of colleges visited and students
+interviewed.
+Even with tight travel schedules
+between campuses, this
+recruiter completes each
+campus report before arrival at
+next campus.
+In making plans to visit a new
+campus, this recruiter might not
+have identified two or three
+faculty
+Table 8.3
+
+===== TRANG PDF 316 =====
+Example of Behavior-Based Rating Scale for Performance Appraisal
+Position: College Recruiter
+Job Description: Visits campuses and conducts interviews of graduating seniors
+Explanation of Rating
+Performance
+Rating
+Explanation of Rating
+members for obtaining pre-visit
+information about degree
+programs.
+This recruiter occasionally does not check with
+college placement office to request student
+résumés two days before arrival.
+Sometimes this recruiter’s notes
+are incomplete concerning a
+student’s response to interview
+questions.
+This recruiter is often several
+minutes late in starting
+interviews.
+This recruiter is frequently late in sending
+thank-you letters to students interviewed.
+This recruiter is always late
+completing campus-recruiting
+reports.
+Table 8.3
+8.6
+Employee Compensation and Benefits
+6.
+What are the types of compensation and methods for paying workers?
+Compensation, which includes both pay and benefits, is closely connected to performance appraisals.
+Employees who perform better tend to get bigger pay raises. Several factors affect an employee’s pay:
+C O N C E P T C H E C K
+1.
+What are the steps in the performance planning and appraisal process?
+2.
+What purposes do performance appraisals serve?
+3.
+Describe some sources of information for the performance appraisal.
+
+===== TRANG PDF 317 =====
+1.
+Pay structure and internal influences. Wages, salaries, and benefits are based on skills, experience, and the
+level of the job. The most important high-level positions, such as president, chief information officer, and
+chief financial officer, are compensated at the highest rates. Likewise, different jobs of equal importance
+to the firm are compensated at similar rates. As the level of management responsibility increases, so does
+pay. For instance, if a drill-press operator and a lathe operator are considered of equal importance, they
+may both be paid $21 per hour.
+2.
+Pay level and external influences. In deciding how much to pay workers, the firm must also be concerned
+with the salaries paid by competitors. If competitors are paying higher wages, a firm may lose its best
+employees. HR professionals regularly evaluate salaries by geography, job position, and competitor and
+market wages. Wage and salary surveys conducted by the U.S. Chamber of Commerce and the U.S.
+Department of Labor can also be useful. There are also several websites such as Glassdoor that post
+salaries for jobs by company.
+An employer can decide to pay at, above, or below the going rate. Most firms try to offer competitive wages
+and salaries within a geographic area or an industry. If a company pays below-market wages, it may not be
+able to hire skilled people. The level of a firm’s compensation is determined by the firm’s financial condition
+(or profitability), efficiency, and employee productivity, as well as the going rates paid by competitors. For
+example, MillerCoors Brewing Co. is considered a high-paying firm ($29–$33 per hour for production
+employees).10
+Types of Compensation or Pay
+There are two basic types of compensation: direct and indirect. Direct pay is the wage or salary received by the
+employee; indirect pay consists of various employee benefits and services. Employees are usually paid directly
+on the basis of the amount of time they work, the amount they produce, the type of work performed, or some
+combination of skill, time, and output. An hourly rate of pay or a monthly salary is considered base pay, or an
+amount of pay received by the employee regardless of output level. In many jobs, such as sales and
+manufacturing, an employee can earn additional pay as a result of a commission or an incentive pay
+arrangement. The accelerated commission schedule for a salesperson shown below indicates that as sales
+increase the incentive becomes increasingly more attractive and rewarding; therefore, pay can function as a
+powerful motivator. In this example, a salesperson receives a base monthly salary of $1,000, then earns 3
+percent on the first $50,000 of product sold, 4 percent on the next $30,000, and 5 percent on any sales beyond
+$80,000.
+Base pay
+$1,000 per month
+3% of 50,000
+1,500
+4% of 30,000
+1,200
+5% of 20,000
+1,000
+$4,700
+Two other incentive pay arrangements are bonuses and profit-sharing. Employees may be paid bonuses for
+reaching certain monthly or annual performance goals or achieving a specific cost-saving objective. In this
+
+===== TRANG PDF 318 =====
+instance, employees are rewarded based on achieving certain goals.
+In a profit-sharing plan, employees may receive some portion of the firm’s profit. Employee profit shares are
+usually based on annual company financial performance and therefore are paid once a year. With either a
+bonus or a profit share, an important incentive pay consideration is whether the bonus or profit share is the
+same for all employees or whether it is differentiated by level in the organization, base pay, or some other
+criterion. Choice Homes, a large-scale builder of starter homes, pays an annual incentive share that is the
+same for everyone; the president receives the same profit share or bonus as the lowest-paid employee.
+Indirect pay includes pensions, health insurance, vacation time, and many others. Some forms of indirect pay
+are required by law: unemployment compensation, worker’s compensation, and Social Security, which are all
+paid in part by employers. Unemployment compensation provides former employees with money for a
+certain period while they are unemployed. To be eligible, the employee must have worked a minimum number
+of weeks, be without a job, and be willing to accept a suitable position offered by the state Unemployment
+Compensation Commission. Some state laws permit payments to strikers. Worker’s compensation pays
+employees for lost work time caused by work-related injuries and may also cover rehabilitation after a serious
+injury. Social Security is mainly a government pension plan, but it also provides disability and survivor benefits
+and benefits for people undergoing kidney dialysis and transplants. Medicare (health care for seniors) and
+Medicaid (health care for the poor) are also part of Social Security.
+Many employers also offer benefits not required by law. Among these are paid time off (vacations, holidays,
+sick days, even pay for jury duty), health insurance (including dental and vision), supplemental benefits
+(disability, life, pet insurance, legal benefits), 401K contributions, pensions and retirement savings accounts,
+and stock purchase options.
+Some firms with numerous benefits allow employees to mix and match benefit items or select items based on
+individual needs. A younger employee with a family may desire to purchase medical, disability, and life
+insurance, whereas an older employee may want to put more benefit dollars into a retirement savings plan.
+Pay and benefits are obviously important elements of human resource management and are frequently
+studied as aspects of employee job satisfaction. Pay can be perceived as very satisfactory, or it can be a point
+of job dissatisfaction. In a study of job satisfaction conducted by SAP, direct compensation was the most
+important element of job satisfaction by employees from various companies.11 As the cost of health insurance
+and other benefits has risen sharply over the past few years, benefits have become increasingly important to
+workers.
+C AT C H I N G T H E E N T R E P R E N E U R I A L S P I R I T
+Starbucks Perks More Than Coffee
+At Starbucks, CEO Howard Schultz understood that the single most important aspect of creating an
+enduring brand is its people. Schultz wanted to set Starbucks apart from other coffee shops and service
+businesses, and he did this by offering health benefits and stock ownership for people who work part-
+time. It had never been done before, and it came with a cost.
+In addition to employee benefits, funding to build the brand was funneled into operations to create an
+experience that would enable the brand to endure and be sold profitably for many years to come. So
+
+===== TRANG PDF 319 =====
+instead of expensive marketing and advertising campaigns, the company focused on experiential
+marketing.
+Scott Bedbury, the president of marketing of Starbucks at the time, explains. “The stores were once four
+white walls. There was no comfortable furniture or fireplaces or music. So we set out to create an
+experience in the stores and a level of brand equity that most traditionally marketed brands couldn’t
+touch. That meant constant creative development of products, and the look and feel in the stores. It
+wasn’t cheap. The first year, we spent $100 million building out stores, which is a significant marketing
+budget for anyone.”
+But the defining moment for the brand was the stock option and employee benefit plan. This laid the
+foundation for the company’s internal brand, and was Schultz’s mission from the very beginning,
+explains Bedbury. “When Howard took over the company, he was not a rich man and he didn’t own a
+house or even a car. Howard grew up poor in Brooklyn and was influenced strongly by his dad, who
+never got health benefits from any of his employers. This fueled Howard’s drive to create a company that
+put employees first. He is passionate that when it comes to customers versus employees, employees will
+always come first.”
+But it wasn’t easy, and it took a lot of courage to present this idea to investors. Bedbury said, “When
+Howard tried to raise $2.8 million to buy the company from the three founders, he made 220
+presentations and he got shut down in all but 12 of them. He was seen as an idealist who was going to
+put an unnecessary burden on the bottom line by offering benefits to part-time employees who viewed
+this as a temporary job. But Howard convinced them that turnover would drop, which it did. Store
+manager attrition was 15 percent, part-time hourly employees was 65 percent, compared to McDonalds
+and Taco Bell, which were about 200–300 percent a year. That’s turning over your work force every four
+months, and when you do that, your service suffers and there are all kinds of problems. I don’t know why
+more people don’t do it. If you give up some equity to employees, they’ll reward you for that.”
+Critical Thinking Questions
+1.
+How can a company like Starbucks sustain its strong employee culture while continuing to grow
+rapidly?
+2.
+Can a firm give its employees too much in terms of benefits and services? Explain.
+Sources: Blog, MarketSmarter, http://www.marketsmarter.com/blog, accessed March 12, 2018; Carmine
+Gallo, “How Starbucks CEO Howard Schultz Inspired Us to Dream Bigger,” Forbes,
+https://www.forbes.com, December 2, 2016; Tanza Loudenback, “The Story Behind the Rise of Starbucks’
+Howard Shultz, Who Just Gave a Raise to Every US Employee of His $82 Billion Coffee Company,” Business
+Insider, http://www.businessinsider.com, July 11, 2016; Monique Reece, Real-Time Marketing for Business
+Growth (Upper Saddle River, NJ: FT Press/Pearson, 2010).
+C O N C E P T C H E C K
+1.
+How does a firm establish a pay scale for its employees?
+2.
+What is the difference between direct and indirect pay?
+
+===== TRANG PDF 320 =====
+8.7
+The Labor Relations Process
+7.
+What is a labor union and how is it organized, what is collective bargaining, and what are some of the key
+negotiation issues?
+Tens of thousands of American firms are unionized, and millions of U.S. workers belong to unions. Historically,
+the mining, manufacturing, construction, and transportation industries have been significantly unionized, but
+in recent years, service-based firms, including health care organizations, have been unionized.
+A labor union, such as the International Brotherhood of Teamsters, is an organization that represents workers
+in dealing with management over disputes involving wages, hours, and working conditions. The labor relations
+process that produces a union-management relationship consists of three phases: union organizing,
+negotiating a labor agreement, and administering the agreement. In phase one, a group of employees within
+a firm may form a union on their own, or an established union (United Auto Workers, for example) may target
+an employer and organize many of the firm’s workers into a local labor union. The second phase constitutes
+collective bargaining, which is the process of negotiating a labor agreement that provides for compensation
+and working arrangements mutually acceptable to the union and to management. Finally, the third phase of
+the labor relations process involves the daily administering of the labor agreement. This is done primarily
+through handling worker grievances and other workforce management problems that require interaction
+between managers and labor union officials.
+The Modern Labor Movement
+The basic structure of the modern labor movement consists of three parts: local unions, national and
+international unions, and union federations. There are approximately 60,000 local unions, 75 national and
+international unions, and two federations. Union membership has been declining over the past three decades
+and is now half what it once was. The number of employed union members has declined by 2.9 million since
+1983, the first year union statistics were reported. In 1983, union membership was 20.1 percent of workers,
+with 17.7 million union workers. In 2017, membership declined to 10.7 percent of workers, with 14.8 million
+members.12
+A local union is a branch or unit of a national union that represents workers at a specific plant or over a
+specific geographic area. Local 276 of the United Auto Workers represents assembly employees at the General
+Motors plant in Arlington, Texas. A local union (in conformance with its national union rules) determines the
+number of local union officers, procedures for electing officers, the schedule of local meetings, financial
+arrangements with the national organization, and the local’s role in negotiating labor agreements.
+The three main functions of the local union are collective bargaining, worker relations and membership
+services, and community and political activities. Collective bargaining takes place every three or four years.
+Local union officers and shop stewards in the plant oversee labor relations on a day-to-day basis. A shop
+steward is an elected union official who represents union members to management when workers have
+complaints. For most union members, his or her primary contact with the union is through union officials at
+3.
+Why are health insurance and benefits so important to employees?
+
+===== TRANG PDF 321 =====
+the local level.
+A national union can range in size from a few thousand members (Screen Actors Guild) to more than a million
+members (Teamsters). A national union may have a few to as many as several hundred local unions. The
+number of national unions has steadily declined since the early twentieth century. Much of this decline has
+resulted from union mergers. In 1999, for example, the United Papermakers International Union (UPICU) and
+the Oil, Chemical and Atomic Workers Union (OCAW) agreed to merge under the new name of PACE, or Paper,
+Allied-Industrial, Chemical and Energy International Union. PACE has about 245,000 members.
+For 50 years, one union federation (the American Federation of Labor-Congress of Industrial Organization, or
+AFL-CIO) dominated the American labor movement. A federation is a collection of unions banded together to
+further organizing, public relations, political, and other mutually-agreed-upon purposes of the member
+unions. In the summer of 2005, several unions (Teamsters, Service Employees International Union, Laborers’
+International Union, United Farm Workers, Carpenters and Joiners, Unite Here, and the United Food and
+Commercial Workers Union) split from the AFL-CIO and formed a new federation named the Change to Win
+Coalition.13 The new federation and its member unions represent more than 5.5 million union members.
+Change to Win Coalition member unions left the AFL-CIO over leadership disagreements and ineffective
+organizing strategies of the AFL-CIO; one of its primary goals is to strengthen union-organizing drives and
+reverse the decline in union membership.14
+Union Organizing
+A nonunion employer becomes unionized through an organizing campaign. The campaign is started either
+from within, by unhappy employees, or from outside, by a union that has picked the employer for an
+organizing drive. Once workers and the union have made contact, a union organizer tries to convince all the
+workers to sign authorization cards. These cards prove the worker’s interest in having the union represent
+them. In most cases, employers resist this card-signing campaign by speaking out against unions in letters,
+posters, and employee assemblies. However, it is illegal for employers to interfere directly with the card-
+signing campaign or to coerce employees into not joining the union.
+Once the union gets signed authorization cards from at least 30 percent of the employees, it can ask National
+Labor Relations Board (NLRB) for a union certification election. This election, by secret ballot, determines
+whether the workers want to be represented by the union. The NLRB posts an election notice and defines the
+bargaining unit—employees who are eligible to vote and who will be represented by the particular union if it is
+certified. Supervisors and managers cannot vote. The union and the employer then engage in a pre-election
+campaign conducted through speeches, memos, and meetings. Both try to convince workers to vote in their
+favor. Table 8.4 lists benefits usually emphasized by the union during a campaign and common arguments
+employers make to convince employees a union is unnecessary.
+The election itself is conducted by the NLRB. If a majority vote for the union, the NLRB certifies the union as
+the exclusive bargaining agent for all employees who had been designated as eligible voters. The employer
+then has to bargain with the union over wages, hours, and other terms of employment. The complete
+organizing process is summarized in Exhibit 8.10.
+In some situations, after one year, if the union and employer don’t reach an agreement, the workers petition
+for a decertification election, which is similar to the certification election but allows workers to vote out the
+union. Decertification elections are also held when workers become dissatisfied with a union that has
+represented them for a longer time. In recent years, the number of decertification elections has increased to
+
+===== TRANG PDF 322 =====
+several hundred per year.
+Benefits Stressed by Unions in Organizing Campaigns and Common Arguments Against
+Unions
+Almost Always Stressed
+Often Stressed
+Seldom Stressed
+Grievance procedures
+More influence in decision-making
+Higher-quality products
+Job security
+Better working conditions
+Technical training
+Improved benefits
+Lobbying opportunities
+More job satisfaction
+Higher pay
+Increased production
+Employer Arguments Against Unionization:
+•
+An employee can always come directly to management with a problem; a third party (the
+union) isn’t necessary.
+•
+As a union member, you will pay monthly union dues of $15 to $40.
+•
+Merit-based decisions (promotions) are better than seniority-based decisions.
+•
+Pay and benefits are very similar to the leading firms in the industry.
+•
+We meet all health and safety standards of the Federal Occupational Safety and Health
+Administration.
+•
+Performance and productivity are more important than union representation in determining
+pay raises.
+Table 8.4
+
+===== TRANG PDF 323 =====
+Exhibit 8.10
+Union Organizing Process and Election (Attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license.)
+Negotiating Union Contracts through Collective Bargaining
+A labor agreement, or union contract, is created through collective bargaining. Typically, both management and
+union negotiation teams are made up of a few people. One person on each side is the chief spokesperson.
+Bargaining begins with union and management negotiators setting a list of contract issues that will be
+discussed. Much of the bargaining over specific details takes place through face-to-face meetings and the
+exchange of written proposals. Demands, proposals, and counterproposals are exchanged during several
+rounds of bargaining. The resulting contract must be approved by top management and ratified by the union
+members. Once both sides approve, the contract is a legally binding agreement that typically covers such
+
+===== TRANG PDF 324 =====
+issues as union security, management rights, wages, benefits, and job security. The collective bargaining
+process is shown in Exhibit 8.11. We will now explore some of the bargaining issues.
+Exhibit 8.11
+The Process of Negotiating Labor Agreements (Attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license.)
+Union Security
+A union wants all employees to be union members. This can be accomplished by negotiating a union security
+clause. The most common union security arrangement is the union shop, whereby nonunion workers can be
+hired by the firm, but then they must join the union, normally within 30 to 60 days. An agency shop does not
+require employees to join the union, but to remain employees, workers must pay the union a fee (known as
+the agency fee) to cover the union’s expenses in representing them. The union must fairly represent all
+workers, including those in the bargaining unit who do not become members.
+Under the Taft-Hartley Act of 1947, a state can make any and all forms of union security illegal by enacting a
+right-to-work law. In the 28 states that have these laws, employees can work at a unionized company without
+having to join the union. This arrangement is commonly known as an open shop. Workers don’t have to join
+the union or pay dues or fees to the union.
+
+===== TRANG PDF 325 =====
+Management Rights
+When a company becomes unionized, management loses some of its decision-making abilities. But
+management still has certain rights that can be negotiated in collective bargaining. One way to resist union
+involvement in management matters is to put a management rights clause in the labor agreement. Most
+union contracts have one. A typical clause gives the employer all rights to manage the business except as
+specified in the contract. For instance, if the contract does not specify the criteria for promotions, with a
+management rights clause, managers will have the right to use any criteria they wish. Another way to preserve
+management rights is to list areas that are not subject to collective bargaining. This list might secure
+management’s right to schedule work hours; hire and fire workers; set production standards; determine the
+number of supervisors in each department; and promote, demote, and transfer workers.
+Wage and Benefits
+Much bargaining effort focuses on wage adjustments and changes in benefits. Once agreed to, they remain in
+effect for the length of the contract. For example, in 2015, the United Auto Workers negotiated a four-year
+contract containing modest hourly wage increases with U.S. car manufacturers; pay hikes were about 3
+percent for first and third years and 4 percent in year four.15 Hourly rates of pay can also increase under some
+agreements when the cost of living increases above a certain level each year, say 4 percent. No cost-of-living
+adjustment is made when annual living cost increases are under 4 percent, which has been the case for the
+early years of the twenty-first century.
+In addition to requests for wage increases, unions usually want better benefits. In some industries, such as
+steel and auto manufacturing, benefits are 40 percent of the total cost of compensation. Benefits may include
+higher wages for overtime work, holiday work, and less desirable shifts; insurance programs (life, health and
+hospitalization, dental care); payment for certain nonwork time (rest periods, vacations, holiday, sick time);
+pensions; and income-maintenance plans. Supplementary unemployment benefits (income-maintenance)
+found in the auto industry are provided by the employer and are in addition to state unemployment
+compensation given to laid-off workers. The unemployment compensation from the state and supplementary
+unemployment pay from the employer together maintain as much as 80 percent of an employee’s normal pay.
+Job Security and Seniority
+Wage adjustments, cost-of-living increases, supplementary unemployment pay, and certain other benefits give
+employees under union contracts some financial security. But most financial security is directly related to job
+security—the assurance, to some degree, that workers will keep their jobs. Of course, job security depends
+primarily on the continued success and financial well-being of the company. For example, thousands of airline
+employees lost their jobs after the 9/11 terrorist attack in 2001; these were employees with the least seniority.
+Seniority, the length of an employee’s continuous service with a firm, is discussed in about 90 percent of all
+labor contracts. Seniority is a factor in job security; usually, unions want the workers with the most seniority to
+have the most job security.
+
+===== TRANG PDF 326 =====
+8.8
+Managing Grievances and Conflicts
+8.
+How are grievances between management and labor resolved, and what tactics are used to force a
+contract settlement?
+In a unionized work environment, employees follow a step-by-step process for handling grievances or disputes
+between management and labor. Conflicts over contracts, however, are far more challenging to resolve and
+may result in the union or employer imposing economic pressure, as described in this section.
+Grievance Handling and Arbitration
+The union’s main way of policing the contract is the grievance procedure. A grievance is a formal complaint by
+an employee or the union that management has violated some part of the contract. Under a typical contract,
+the employee starts by presenting the grievance to the supervisor, either in person or in writing. The typical
+grievance procedure is illustrated in Exhibit 8.13. An example grievance is a situation in which an employee is
+disciplined with a one-day suspension (and loss of pay) for being late for work several times in one month.
+C O N C E P T C H E C K
+1.
+Discuss the modern labor movement.
+2.
+What are the various topics that may be covered during collective bargaining?
+3.
+Explain the differences among a union shop, agency shop, and an open shop.
+
+===== TRANG PDF 327 =====
+Exhibit 8.12
+Ezekiel Elliott is a star running back for the Dallas Cowboys who was suspended by NFL commissioner Roger Goodell for six
+games in the 2017 season. The controversial NFL running back, with the support of the NFL Players Association (NFLPA), appealed the decision
+several times and was able to delay the suspension, but eventually lost a highly publicized case in federal court. U.S. District Judge Katherine
+Polk Failla ruled that the NFL’s decision to suspend Elliott did not violate the labor agreement. What options did Elliott and the NFLPA have after
+losing this court case? (Credit: grantlairdjr/ flickr/ Attribution 2.0 Generic (CC BY 2.0))
+If the problem isn’t solved, the grievance is put in writing. The employee, one or more union officials, the
+supervisor, and perhaps the plant manager then discuss the grievance. If the matter still can’t be resolved,
+another meeting takes place with higher-level representatives of both parties present. If top management and
+the local union president can’t resolve the grievance, it goes to arbitration.
+Arbitration is the process of settling a labor-management dispute by having a third party—a single arbitrator
+or a panel—make a decision. The decision is final and binding on the union and employer. The arbitrator
+reviews the grievance at a hearing and then makes the decision, which is presented in a document called the
+award. In the one-day suspension mentioned above, the arbitrator might rule that the discipline was
+improperly made because the employee’s attendance record for the month was not accurately maintained by
+the firm.
+
+===== TRANG PDF 328 =====
+Exhibit 8.13
+Typical Grievance Procedure (Attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license.)
+Tactics for Pressuring a Contract Settlement
+Virtually all labor agreements specify peaceful resolution of conflicts, usually through arbitration. However,
+when a contract expires and a new agreement has not been reached, the union is free to strike or engage in
+other efforts to exert economic pressure on the employer. A strike occurs when employees refuse to work. The
+United Auto Workers union used a selective strike strategy, a strategy of conducting a strike at a critical
+plant that supplies parts to other plants, against General Motors. The union conducted its strike at a stamping
+and parts facility in Flint, Michigan, that supplied critical parts to other plants. The 54-day strike caused the
+company to stop production at many of its assembly plants because parts were not available from the Flint
+plant. General Motors lost approximately $2.2 billion during that dispute. Likewise, the employer can put
+pressure on the union through a lockout or by hiring strike replacements if the union has called a strike. For
+example, in 2018 aluminum producer Alcoa locked out more than 1,000 union workers from its smelter facility
+
+===== TRANG PDF 329 =====
+in Quebec, Canada, after union members went on strike.16 Table 8.5 provides a summary of union and
+employer pressure strategies for forcing a contract settlement.
+Strategies of Unions and Employers
+Union
+Strategies
+Employer
+Strategies
+Strike:
+Employees refuse to work.
+Lockout:
+Employer refuses to let
+employees enter plant to work.
+Boycott:
+Employees try to keep
+customers and others from
+doing business with
+employer.
+Strike
+replacements:
+Employer uses nonunion
+employees to do jobs of
+striking union employees.
+Picketing:
+Employees march near
+entrance of firm to publicize
+their view of dispute and
+discourage customers.
+Mutual-aid
+pact:
+Employer receives money from
+other companies in industry to
+cover some of income lost
+because of strikes.
+Corporate
+campaign:
+Union disrupts stockholder
+meetings or buys company
+stock to have more influence
+over management.
+Shift
+production:
+Employer moves production to
+nonunion plant or out of
+country.
+Table 8.5
+8.9
+Legal Environment of Human Resources and Labor Relations
+9.
+What are the key laws and federal agencies affecting human resource management and labor relations?
+Federal laws help ensure that job applicants and employees are treated fairly and not discriminated against.
+Hiring, training, and job placement must be unbiased. Promotion and compensation decisions must be based
+on performance. These laws help all Americans who have talent, training, and the desire to get ahead. The key
+laws that currently impact human resource management and labor relations are listed in Table 8.6.
+Several laws govern wages, pensions, and unemployment compensation. For instance, the Fair Labor
+Standards Act sets the federal minimum wage, which is periodically raised by Congress. Many minimum-wage
+C O N C E P T C H E C K
+1.
+Describe the grievance procedure.
+2.
+In what ways do arbitrators act like judges?
+3.
+What are some tactics for pressuring for a contract settlement?
+
+===== TRANG PDF 330 =====
+jobs are found in service firms, such as fast-food chains and retail stores. The Pension Reform Act protects the
+retirement income of employees and retirees. Federal tax laws also affect compensation, including employee
+profit-sharing and stock purchase plans. When John F. Kennedy signed the Equal Pay Act into law in 1963, the
+goal was to stop the practice of paying women lower wages for the same job based on their gender. At the
+time, women with full-time jobs earned between 59 and 64 cents for every dollar their male counterparts
+earned in the same jobs. Although this law has been in place for several decades, progress has been slow. On
+April 17, 2012, President Barack Obama proclaimed National Equal Pay Day, noting that women who work full
+time earn only 77 cents for every dollar their male counterparts make. In 2016, the wage gap changed slightly,
+with women making 80.5 percent of what men earn.17
+Laws Impacting Human Resource Management
+Law
+Purpose
+Agency of Enforcement
+Social Security Act (1935)
+Provides for retirement income
+and old-age health care
+Social Security Administration
+Wagner Act (1935)
+Gives workers the right to
+unionize and prohibits
+employer unfair labor practices
+National Labor Relations Board
+Fair Labor Standards Act
+(1938)
+Sets minimum wage, restricts
+child labor, sets overtime pay
+Wage and Hour Division,
+Department of Labor
+Taft-Hartley Act (1947)
+Obligates the union to bargain
+in good faith and prohibits
+union unfair labor practices
+Federal Mediation and
+Conciliation Service
+Equal Pay Act (1963)
+Eliminates pay differentials
+based on gender
+Equal Employment
+Opportunity Commission
+Civil Rights Act (1964), Title
+VII
+Prohibits employment
+discrimination based on race,
+color, religion, gender, or
+national origin
+Equal Employment
+Opportunity Commission
+Age Discrimination Act
+(1967)
+Prohibits age discrimination
+against those over 40 years of
+age
+Equal Employment
+Opportunity Commission
+Occupational Safety and
+Health Act (1970)
+Protects worker health and
+safety, provides for hazard-free
+workplace
+Occupational Safety and
+Health Administration
+Vietnam Veterans’
+Readjustment Act (1974)
+Requires affirmative
+employment of Vietnam War
+veterans
+Veterans Employment Service,
+Department of Labor
+Table 8.6
+
+===== TRANG PDF 331 =====
+Laws Impacting Human Resource Management
+Law
+Purpose
+Agency of Enforcement
+Employee Retirement
+Income Security Act
+(1974)—also called Pension
+Reform Act
+Establishes minimum
+requirements for private
+pension plans
+Internal Revenue Service,
+Department of Labor, and
+Pension Benefit Guaranty
+Corporation
+Pregnancy Discrimination
+Act (1978)
+Treats pregnancy as a disability,
+prevents employment
+discrimination based on
+pregnancy
+Equal Employment
+Opportunity Commission
+Immigration Reform and
+Control Act (1986)
+Verifies employment eligibility,
+prevents employment of illegal
+aliens
+Employment Verification
+Systems, Immigration and
+Naturalization Service
+Americans with Disabilities
+Act (1990)
+Prohibits employment
+discrimination based on mental
+or physical disabilities
+Department of Labor
+Family and Medical Leave
+Act (1993)
+Requires employers to provide
+unpaid leave for childbirth,
+adoption, or illness
+Equal Employment
+Opportunity Commission
+Table 8.6
+Employers must also be aware of changes to laws concerning employee safety, health, and privacy. The
+Occupational Safety and Health Act (OSH Act) requires employers to provide a workplace free of health and
+safety hazards. For instance, manufacturers must require their employees working on loading docks to wear
+steel-toed shoes so their feet won’t be injured if materials are dropped. Drug and AIDS testing are also
+governed by federal laws.
+Another employee law that continues to affect the workplace is the Americans with Disabilities Act. To be
+considered disabled, a person must have a physical or mental impairment that greatly limits one or more
+major life activities. More than 40 million Americans, 12.6 percent of the population, were disabled in 2015,
+according to the U.S. Census Bureau.18 Employers may not discriminate against disabled persons. They must
+make “reasonable accommodations” so that qualified employees can perform the job, unless doing so would
+cause “undue hardship” for the business. Altering work schedules, modifying equipment so a wheelchair-
+bound person can use it, and making buildings accessible by ramps and elevators are considered reasonable.
+Two companies often praised for their efforts to hire the disabled are McDonald’s and DuPont.
+The Family and Medical Leave Act went into effect in 1993. The law guarantees continuation of paid health
+benefits, plus a return to the same or equivalent job, and applies to employers with 50 or more employees. It
+requires these employers to provide unpaid leave of up to 12 weeks during any 12-month period to workers
+who have been employed for at least a year and worked at least 1,250 hours during the past year. The reasons
+for the leave include the birth or adoption of a child; the serious illness of a child, spouse, or parent; or a
+serious illness that prevents the worker from doing the job.
+
+===== TRANG PDF 332 =====
+According to the Bureau of Labor Statistics, only 11 percent of all private industry workers have access to paid
+family leave. Low-wage earners fare even worse. Only 5 percent of low-wage earners get any paid maternity
+leave, and nearly half will not take time off because they cannot afford to go without income. The United
+States continues to be one of only four countries in the world (along with Liberia, Suriname, and Papua New
+Guinea) that do not guarantee paid parental leave.19
+The Wagner and Taft-Hartley Acts govern the relationship between an employer and union. Employees have
+the right to unionize and bargain collectively with the company. The employer must deal with the union fairly,
+bargain in good faith, and not discriminate against an employee who belongs to the union. The union must
+also represent all employees covered by a labor agreement fairly and deal with the employer in good faith.
+Several federal agencies oversee employment, safety, compensation, and related areas. The Occupational
+Safety and Health Administration (OSHA) sets workplace safety and health standards, provides safety
+training, and inspects places of work (assembly plants, construction sites, and warehouse facilities, for
+example) to determine employer compliance with safety regulations.
+Exhibit 8.14
+For some occupations, danger is part of the job description. Tallies of work-related casualties routinely identify miners, loggers,
+pilots, commercial fishermen, and steel workers as holding the most deadly jobs. Job fatalities are often linked to the use of heavy or outdated
+equipment. However, many work-related deaths also happen in common highway accidents or as homicides. Pictured here are miners at the
+Coal Miner’s Memorial and Pennsylvania Welcome Center. What laws and agencies are designated to improve occupational safety? (Credit: Mike
+Steele/ Flickr/ Attribution 2.0 Generic (CC BY 2.0))
+The Wage and Hour division of the Department of Labor enforces the federal minimum-wage law and
+overtime provisions of the Fair Labor Standards Act. Employers covered by this law must pay certain
+employees a premium rate of pay (or time and one-half) for all hours worked beyond 40 in one week.
+The Equal Employment Opportunity Commission (EEOC) was created by the 1964 Civil Rights Act. It is one of
+the most influential agencies responsible for enforcing employment laws. The EEOC has three basic functions:
+processing discrimination complaints, issuing written regulations, and gathering and disseminating
+information. An employment discrimination complaint can be filed by an individual or a group of employees
+
+===== TRANG PDF 333 =====
+who work for a company. The group may comprise a protected class, such as women, African Americans, or
+Hispanic Americans. The protected group may pursue a class-action complaint that may eventually become a
+lawsuit. As a measure to prevent employment discrimination, many employers set up affirmative action
+programs to expand job opportunities for women and minorities
+Even with affirmative action and other company efforts to follow the law, each year the EEOC receives tens of
+thousands of complaints from current or former employees. The monetary benefits that the EEOC wins for
+employees has grown substantially during the past 10 years. Large monetary settlements often occur when
+the EEOC files a class-action suit against an employer. For example, the Ford Motor Company settled sexual
+and racial harassment claims by more than 30 women for more than $10 million at two Chicago-area
+manufacturing plants in 2017.20 Also, Sears, Motorola, and AT&T have had to make large back-pay awards and
+to offer special training to minority employees after the court found they had been discriminated against.
+The NLRB was established to enforce the Wagner Act. Its five members are appointed by the president; the
+agency’s main office is in Washington, DC, and regional and field offices are scattered throughout the United
+States. NLRB field agents investigate charges of employer and union wrongdoing (or unfair labor practices)
+and supervise elections held to decide union representation. Judges conduct hearings to determine whether
+employers and unions have violated the law.
+The Federal Mediation and Conciliation Service helps unions and employers negotiate labor agreements.
+Agency specialists, who serve as impartial third parties between the union and company, use two processes:
+conciliation and mediation, both of which require expert communication and persuasion. In conciliation, the
+specialist assists management and the union with focusing on the issues in dispute and acts as a go-between,
+or communication channel through which the union and employer send messages to and share information
+with each other. The specialist takes a stronger role in mediation by suggesting compromises to the disputing
+organizations.
+8.10
+Trends in Human Resource Management and Labor Relations
+10.
+What trends and issues are affecting human resource management and labor relations?
+Some of today’s most important trends in human resource management are using employee diversity as a
+competitive advantage, improving efficiency through outsourcing and technology, and hiring employees who
+fit the organizational culture. Although overall labor union enrollment continues to decline, a possible surge in
+membership in service unions is anticipated.
+Employee Diversity and Competitive Advantage
+American society and its workforce are becoming increasingly more diverse in terms of racial and ethnic
+status, age, educational background, work experience, and gender. A company with a demographic employee
+C O N C E P T C H E C K
+1.
+Discuss the laws that govern wages, pensions, and employee compensation.
+2.
+Describe the Americans with Disabilities Act.
+3.
+How do the Wagner and Taft-Hartley Acts impact labor-management relations?
+
+===== TRANG PDF 334 =====
+profile that looks like its customers may be in a position to gain a competitive advantage, which is a set of
+unique features of a company and its product or service that are perceived by the target market as superior to
+those of the competition. Competitive advantage is the factor that causes customers to patronize a firm and
+not the competition. Many things can be a source of competitive advantage: for Southwest Airlines it is route
+structure and high asset utilization; for Ritz-Carlton hotels it is very high-quality guest services; for Toyota it is
+manufacturing efficiency and product durability; and for Starbucks it is location, service, and outstanding
+coffee products. For these firms, a competitive advantage is also created by their HR practices. Many firms are
+successful because of employee diversity, which can produce more effective problem-solving, a stronger
+reputation for hiring women and minorities, greater employee diversity, quicker adaptation to change, and
+more robust product solutions because a diverse team can generate more options for improvement.21
+In order for an organization to use employee diversity for competitive advantage, top management must be
+fully committed to hiring and developing women and minority individuals. An organization that highly values
+employee diversity is the United States Postal Service (USPS). In 1992 the Postal Service launched a diversity
+development program to serve as the organization’s “social conscience and to increase employees’ awareness
+of and appreciation for ethnic and cultural diversity both in the postal workplace and among customers.”
+Twenty-five years later, 39 percent of postal service employees are minority persons: 21 percent African-
+American, 8 percent Hispanic, and more than 8.0 percent other minorities. In addition, women make up 40
+percent of the organization’s workforce.22
+Outsourcing HR and Technology
+The role of the HR professional has changed noticeably over the past 20 years. One significant change has
+been the use of technology in handling relatively routine HR tasks, such as payroll processing, initial screening
+of applicants, and benefits enrollments. Large firms such as Nokia and Lockheed Martin purchase specialized
+software (SAP and Oracle/PeopleSoft) to perform the information-processing aspects of many HR tasks. Other
+firms, such as Jacobs Engineering Group (a large professional services firm), outsource—or contract
+out—these tasks to HR service providers such as Aon Hewitt and Workforce Solutions.
+HR outsourcing is done when another firm can perform a task better and more efficiently, thus saving costs.
+Sometimes HR activities are outsourced because HR requirements are extraordinary and too overwhelming to
+execute in-house in a timely fashion. Frequently, HR activities are outsourced simply because a provider has
+greater expertise. For example, media conglomerate CBS Corp. recently announced that it hired Fidelity
+Investments to manage its 401(k) plan, which has more than $4 billion in assets.23
+Organizational Culture and Hiring for Fit
+Regardless of general business and economic conditions, many firms are expanding operations and hiring
+additional employees. For many growing firms, corporate culture can be a key aspect of developing employees
+into a competitive advantage for the firm. Corporate culture refers to the core values and beliefs that support
+the mission and business model of the firm and guide employee behavior. Companies such as JetBlue, Ritz-
+Carlton, and Cypress frequently hire for fit with their corporate cultures. This necessitates recruitment and
+selection of employees who exhibit the values of the firm. Ritz-Carlton and Cypress use carefully crafted
+applicant questionnaires to screen for values and behaviors that support the corporate culture. JetBlue uses
+behavioral-based interview questions derived from its corporate values of safety, integrity, caring, fun, and
+passion. Southwest Airlines has non-HR employees (flight attendants, gate agents, and pilots) and even
+
+===== TRANG PDF 335 =====
+frequent flyer passengers interview applicants to screen for cultural fit as well as strong customer-service
+orientation.
+In addition to cultural fit, firms are increasingly hiring for technical knowledge and skills fit to the job. Tech
+companies such as IBM, Amazon, and Microsoft receive thousands of résumés and job applications each year
+and continue to look for the best and the brightest when it comes to technical knowledge and skills. For
+example, IBM is now focusing on a skills-based approach rather than a candidate’s education level and
+number of academic degrees. Amazon is all about the customer and looks for employees who continue to be
+“relentlessly curious.” Microsoft continues to raise the talent bar by embracing job applicants who have
+demonstrated leadership, achieved concrete results, and can prove that they love to learn.24
+More Service Workers Joining Labor Unions
+Organized labor has faced tumultuous times during the last several decades due to declining union
+membership, loss of factory jobs, dwindling political clout, and the shifting of jobs outside the United States.
+With union membership now down to a little more than 10 percent of the U.S. workforce, some wonder if labor
+unions, who organize as a united front against poor working conditions, still have a place in the country. Mary
+Kay Henry, international president of Service Employees International Union (SEIU), is optimistic that unions
+are capable of resurgence by organizing the growing number of service workers into labor unions. The SEIU is
+the fastest-growing union in the nation, having jumped to 2 million members from 1.1 million a decade ago.25
+Henry’s goal is to focus on recruiting the country’s millions of low-wage service workers, positions that are
+primarily filled by the working poor. These workers are disproportionately women, immigrants, and members
+of minority groups, which have all been traditionally more open to unionization. If these workers are
+successfully recruited into the SEIU, Henry believes that their wages and benefits would increase in much the
+same way unions brought factory workers into the middle class in the 1930s.
+The SEIU believes that the service industry provides a target of opportunity, with the largest expected
+employment growth through 2026 in low-paid local services:
+Job
+Projected Growth26
+Home health aides
+47%
+Personal care aides
+39%
+Food preparation
+17%
+Janitorial
+10%
+Many believe that the future of labor lies primarily in the success of recruitment efforts and in enrolling the
+massive numbers of employees who are in fast-growing, low-wage service jobs. For example, the SEIU was
+successful recently in unionizing hundreds of workers who provide services to people with disabilities in
+California, with an eye toward raising standards for their work and increasing hourly wages and benefits.
+Reversing labor’s decline will be challenging, but the SEIU looks positively toward the future.27
+
+===== TRANG PDF 336 =====
+C O N C E P T C H E C K
+1.
+How can employee diversity give a company a competitive advantage?
+2.
+Explain the concept of hiring for fit.
+3.
+Why does the service industry provide an opportunity for labor union growth?
